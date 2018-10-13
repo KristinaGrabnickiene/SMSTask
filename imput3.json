@@ -5,6 +5,5 @@
     {"price": 2, "income": 1.91},
     {"price": 3, "income": 2.9}
   ],
-  "max_messages": 5,
   "required_income": 11
 }
